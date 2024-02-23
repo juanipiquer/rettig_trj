@@ -1,4 +1,4 @@
-# unholster_prj
+# Trayectorias informe Rettig
  
 ## Informe rettig repo
 
@@ -47,7 +47,7 @@ En cualquier caso una vez que el procesamiento esté más afinado con los parám
 
 En términos de programación, lo que alcancé a hacer es la estructura básica de que haga un summary de cada evento, sin input de qué buscar. El resultado es bastante decente dado lo malo de los datos (no logré hacer bien el stop de cada caso ni incluir el párrafo donde está la fecha). El output es un excel con el caso original y el caso resumido. 
 
-#### Lo que falta spaCy
+#### Lo que falta: spaCy
 
 Con más trabajo sobre el regex no es difícil llegar a una base de datos más perfecta con la que alimentar el pipeline de spacy. Hay que decirle que busque en los casos las caracteristicas individuales de los nombres como nombre, edad, empleo y militancia.
 El procesamiento con LLM y prompt tipo query requiere que los inputs no sean tan masivos, por lo que esta estrutura de datos me parece optima. 
