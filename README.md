@@ -40,7 +40,6 @@ En el script de parsing pasé el PDF a HTML para recuperar la data del formato, 
 #### Lo que falta: Parsing
 Seguir trabajando la extracción. Dada la regularidad del  formato, es lógico hacer está parte bien y a mano, y asegurarse de tener todos los nombres y todos los casos bien identificados.
 
-
 #### Lo que hice: spaCy
 
 Sobre el estado del arte de procesamientos con modelos de lenguaje natural en Python, y en spaCy es fácil integrar todo y está enfocada en proyectos aplicados.
