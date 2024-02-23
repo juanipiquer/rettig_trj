@@ -56,7 +56,7 @@ Tamibén hay q hacer la extracción de datos del tomo 3, para hacer la tabla de 
 Sobre el estado del arte de procesamientos con modelos de lenguaje natural en Python, en spaCy es fácil integrar todo y está enfocada en proyectos aplicados.
 En cualquier caso una vez que el procesamiento esté más afinado con las herramientas incluidas de spaCy como stop words o los modelos de lenguaje subyacentes, se puede probar con otras bibliotecas de esos elementos. 
 
-En términos de programación, lo que tengo es la estructura básica de que haga un summary de cada evento, sin input de qué buscar. El resultado es bastante decente dado lo malo de los datos (no logré hacer bien el stop de cada caso ni incluir el párrafo donde está la fecha). El output es un excel con el caso original y el caso resumido. 
+En términos de programación, lo que tengo es la estructura básica de que haga un summary de cada evento, sin input de qué buscar. El resultado no es tan malo dado lo malo de los datos (no logré hacer bien el stop de cada caso ni incluir el párrafo donde está la fecha). El output es un excel con el caso original y el caso resumido.
 
 #### Lo que falta: spaCy
 
