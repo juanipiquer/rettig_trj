@@ -85,5 +85,5 @@ Beautiful soup https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 PDFminer https://github.com/pdfminer/pdfminer.six
 
 probar este modelo para los summary
-https://huggingface.co/mrm8488/bert2bert_shared-spanish-finetuned-summarization 
+https://huggingface.co/mrm8488/bert2bert_shared-spanish-finetuned-summarization  
 Y se puede hacer alianza supongo con el DCC UCh, que están haciendo varios de estos modelos en spanish
