@@ -57,7 +57,7 @@ En términos de programación, lo que tengo es la estructura básica de que haga
 #### Lo que falta
 Con más trabajo sobre el regex de sparcing no es difícil llegar a una base de datos más perfecta con la que alimentar el pipeline de spacy. Hay que enfocarlo en que busque en los casos las descripciones de contexto y detalles del evento, pues las identificaciones personales están asignadas con precisión y más detalle en el tomo 3.
 
-El procesamiento con LLM y prompt tipo query requiere que los inputs no sean tan masivos, por lo que esta estrutura de datos me parece optima. 
+El procesamiento con LLM y prompt tipo query requiere que los inputs no sean tan masivos, por lo que esta estructura de datos me parece óptima. 
 
 Yo haría un pipeline semi superversiado, y spaCy tiene buena implimentación de eso. Haría una pasada, corregir a mano un set de los outpus, y desupés le das como training esas observaciones.
 
