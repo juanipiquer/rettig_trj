@@ -86,4 +86,6 @@ PDFminer https://github.com/pdfminer/pdfminer.six
 
 probar este modelo para los summary
 https://huggingface.co/mrm8488/bert2bert_shared-spanish-finetuned-summarization  
-Y se puede hacer alianza supongo con el DCC UCh, que están haciendo varios de estos modelos en spanish
+Y se puede hacer alianza supongo con el DCC UCh, que están haciendo varios de estos modelos en spanish  
+Español de Chile  
+https://huggingface.co/dccuchile/patana-chilean-spanish-bert)https://huggingface.co/dccuchile/patana-chilean-spanish-bert
