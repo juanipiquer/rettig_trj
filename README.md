@@ -66,9 +66,9 @@ Yo haría un pipeline semi superversiado, y spaCy tiene buena implimentación de
 **Interno**: se puede hacer una vinculación con el resto del informe rettig y aprovechar parte del contenido que sale ahí, en la medida de que hayan elementos vinculables a los eventos.
 
 *Visualizaciones*  
-Mapas de los lugares
-Cronología de las fechas 
-Estadística sumaria de género, edad, 
+Mapas de los lugares  
+Cronología de las fechas   
+Estadística sumaria de género, edad, etc.
 
 **Externo**: 
 Después, una vez que se llega a una base de datos más o menos limpia, esta es relatiavamente fácil de cruzar con los RUT para hacer un mejor matching con otra potencial data del estado, porque la estructura de nombres es nombre - nombre - APELLIDO APELLIDO.
