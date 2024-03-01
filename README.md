@@ -61,7 +61,7 @@ El procesamiento con LLM y prompt tipo query requiere que los inputs no sean tan
 
 Yo haría un pipeline semi superversiado, y spaCy tiene buena implimentación de eso. Haría una pasada, corregir a mano un set de los outpus, y desupés le das como training esas observaciones.
 
-## Post tener una base rica:
+## Post tener una base refinada:
 
 **Interno**: se puede hacer una vinculación con el resto del informe rettig y aprovechar parte del contenido que sale ahí, en la medida que hayan elementos vinculables a los eventos.
 
